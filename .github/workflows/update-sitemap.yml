@@ -1,0 +1,20 @@
+name: Update Sitemap
+on:
+  schedule:
+    - cron: '0 3 * * *'   # daily at 3am
+  workflow_dispatch:        # allow manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch sitemap
+        run: curl -s https://www.rvwd.ai/sitemap.xml -o sitemap.xml
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add sitemap.xml
+          git diff --staged --quiet || git commit -m "Update sitemap"
+          git push
