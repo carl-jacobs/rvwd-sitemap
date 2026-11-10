@@ -326,6 +326,33 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.rvwd.ai/en/product/contextual-notes" />
   </url>
   <url>
+    <loc>https://www.rvwd.ai/en/product/hr-guide</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.rvwd.ai/en/product/hr-guide" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.rvwd.ai/fr/product/hr-guide" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.rvwd.ai/nl/product/hr-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.rvwd.ai/en/product/hr-guide" />
+  </url>
+  <url>
+    <loc>https://www.rvwd.ai/fr/product/hr-guide</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.rvwd.ai/en/product/hr-guide" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.rvwd.ai/fr/product/hr-guide" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.rvwd.ai/nl/product/hr-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.rvwd.ai/en/product/hr-guide" />
+  </url>
+  <url>
+    <loc>https://www.rvwd.ai/nl/product/hr-guide</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.rvwd.ai/en/product/hr-guide" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.rvwd.ai/fr/product/hr-guide" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.rvwd.ai/nl/product/hr-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.rvwd.ai/en/product/hr-guide" />
+  </url>
+  <url>
     <loc>https://www.rvwd.ai/en/product/analytics</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
