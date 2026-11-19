@@ -164,6 +164,33 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.rvwd.ai/en/product/9box-grid" />
   </url>
   <url>
+    <loc>https://www.rvwd.ai/en/product/personal-improvement-plan</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.rvwd.ai/en/product/personal-improvement-plan" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.rvwd.ai/fr/product/personal-improvement-plan" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.rvwd.ai/nl/product/personal-improvement-plan" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.rvwd.ai/en/product/personal-improvement-plan" />
+  </url>
+  <url>
+    <loc>https://www.rvwd.ai/fr/product/personal-improvement-plan</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.rvwd.ai/en/product/personal-improvement-plan" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.rvwd.ai/fr/product/personal-improvement-plan" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.rvwd.ai/nl/product/personal-improvement-plan" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.rvwd.ai/en/product/personal-improvement-plan" />
+  </url>
+  <url>
+    <loc>https://www.rvwd.ai/nl/product/personal-improvement-plan</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.rvwd.ai/en/product/personal-improvement-plan" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.rvwd.ai/fr/product/personal-improvement-plan" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.rvwd.ai/nl/product/personal-improvement-plan" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.rvwd.ai/en/product/personal-improvement-plan" />
+  </url>
+  <url>
     <loc>https://www.rvwd.ai/en/product/skills-competences</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
